@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#5C56D7</color>
+    <color name="bg_graywhite">#746EF2</color>
+    <color name="bg_press">#423D9F</color>
+    <color name="chart_above_limit">#FE6852</color>
+    <color name="chart_default_limit">#BDBCCB</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="divider_line">#353093</color>
+    <color name="highlight">#4C1C41</color>
+    <color name="lowlight">#4A3F68</color>
+    <color name="maskcover">#A398B8</color>
+    <color name="s_bg">#38348D</color>
+    <color name="s_off">#B9BBBD</color>
+    <color name="s_on">#FB8472</color>
+    <color name="wheel_bg">#CEBFE6</color>
+    <color name="white">#FFFFFF</color>
+    <drawable name="bg_graywhite">#746EF2</drawable>
+    <drawable name="bg_press">#423D9F</drawable>
+    <drawable name="turnbg">#5C56D7</drawable>
+    <string name="ALARM">WARNING</string>
+    <string name="ALERT">WARNING</string>
+    <string name="NO">NO</string>
+    <string name="OK">OK</string>
+    <string name="YES">YES</string>
+    <string name="app_name">LhjLibrary</string>
+    <string name="camera_per_sixdown">Camera permissions is close.Please  return to App-Ops-Control all Access open it , or you can\'t use this camera function.</string>
+    <string name="camera_per_sixup">Camera permissions is close.Please  click \"allow\"to open it, or you can\' t use this camera function.</string>
+    <string name="location_per"> Android 6.0 system, the need for location permission to use the Bluetooth-related functions. </string>
+    <string name="phone_per_sixdown">Reading call permissions is close.Please return to App-Ops-Control all Access open it , or you can\'t use the call reminder function.</string>
+    <string name="phone_per_sixup">Reading call permissions is close.Please  click \"allow\"to open it, or you can\' t use the call reminder function.</string>
+    <string name="record_per_sixdown">Recording permissions is close.Please return to App-Ops-Control all Access open it , or you can\'t use this recording function.</string>
+    <string name="record_per_sixup">Recording permissions is close.Please  click \"allow\"to open it, or you can\' t use this Recording function.</string>
+    <string name="sms_per_sixdown">Reading message permissions is close.Please  return to App-Ops-Control all Access open it , or you can\'t use the message reminder function.</string>
+    <string name="sms_per_sixup">Reading message permissions is close.Please  click \"allow\"to open it, or you can\' t use the message reminder function.</string>
+    <string name="storage_per_sixdown">File storage permissions is close.Please  return to App-Ops-Control all Access open it , or you can\'t use this share function.</string>
+    <string name="storage_per_sixup">File storage permissions is close.Please  click \"allow\"to open it, or you can\' t use this share function.</string>
+</resources>

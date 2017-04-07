@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\adsmart_code\\LhjLibrary\\Lhj_Library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "E:\\adsmart_code\\LhjLibrary\\Lhj_Library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "E:\\adsmart_code\\LhjLibrary\\ToolsLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "E:\\adsmart_code\\LhjLibrary\\ToolsLibrary\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\color-v23\\abc_color_highlight_material.xml"
+    }
+]

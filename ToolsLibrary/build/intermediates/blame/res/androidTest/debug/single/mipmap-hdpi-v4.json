@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\adsmart_code\\LhjLibrary\\Lhj_Library\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\adsmart_code\\LhjLibrary\\Lhj_Library\\build\\intermediates\\bundles\\debug\\res\\mipmap-hdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\adsmart_code\\LhjLibrary\\ToolsLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\adsmart_code\\LhjLibrary\\ToolsLibrary\\build\\intermediates\\bundles\\debug\\res\\mipmap-hdpi-v4\\ic_launcher.png"
+    }
+]

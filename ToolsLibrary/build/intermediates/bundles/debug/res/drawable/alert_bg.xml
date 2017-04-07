@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android"> 
+
+<!-- 主体背景颜色值FF705A(red) -->
+<item > 
+     <shape> 
+           <solid android:color="#f8fafe" />
+           <!-- 连框颜色值 #FF705A-->
+           <!--topRightRadius  右上角-->
+           <!-- bottomLeftRadius 左下角-->
+           <!--topLeftRadius  左上角-->
+           <!--bottomRightRadius 右下角 -->
+           <corners
+				android:topRightRadius="10dp"    
+				android:bottomLeftRadius="10dp"  
+				android:topLeftRadius="10dp" 
+				android:bottomRightRadius="10dp"   />
+     </shape>     
+</item>
+</layer-list>
